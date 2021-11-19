@@ -10,22 +10,16 @@
 -------------------------------------------------------------------------------*/
 
 #first-slider .slide1 {
-    background-image: url('../images/slides/IMG_0045_q.jpg');
+    background-image: url('../images/slides/IMG_7304.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 	background-position: center;
 }
 #first-slider .slide2 {
-  background-image: url('../images/slides/IMG_7304.jpg');
+  background-image: url('../images/slides/IMG-3444.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-}
-#first-slider .slide3 {
-  	background-image: url('../images/slides/IMG_7082.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-	background-position: center;
 }
 
 /* ------------------------------------------------------------------------------
